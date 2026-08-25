@@ -7,7 +7,7 @@
 # 君のために血を流す
 
 <sub>
-i'd bleed for you.
+carry what broke you.
 </sub>
 
 <br><br>
