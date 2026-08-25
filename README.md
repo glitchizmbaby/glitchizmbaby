@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/bannerr.jpg" width="100%" alt="banner"/>
+<img src="./assets/sommergewitter.png" width="100%" alt="banner"/>
 
 <br>
 
