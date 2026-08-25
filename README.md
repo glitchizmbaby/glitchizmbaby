@@ -34,18 +34,18 @@ carry what broke you.
 user: glitchizmbaby
 alias: sommergewitter
 
-system:
-  os: Arch Linux
-  shell: terminal
+os: Arch Linux
+shell: terminal
 
-interests:
-  - development
-  - automation
-  - linux
-  - anime
-  - gaming
+focus:
+  - create
+  - automate
+  - improve
+  - repeat
 
-currently:
-  building: things nobody asked for
-  debugging: my own mistakes
-  sleeping: false
+runtime:
+  sleep: false
+  errors: expected
+  progress: continuous
+
+mood: off
