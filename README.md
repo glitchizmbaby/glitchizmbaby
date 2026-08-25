@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.jpg" width="100%" alt="anime banner">
+<img src="./assets/banner.jpg" width="100%" />
 
 <br><br>
 
